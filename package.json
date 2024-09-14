@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@hono/vite-ssg": "^0.1.0",
+    "hono": "^4.1.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240909.0",
+    "@hono/vite-dev-server": "^0.9.0",
+    "@types/bun": "^1.0.8",
+    "front-matter": "^4.0.2",
+    "marked": "^12.0.1",
+    "prettier": "^3.2.5",
+    "shiki": "^1.2.0",
+    "vite": "^5.4.5",
+    "vite-plugin-sitemap": "^0.5.3",
+    "zod": "^3.22.4"
+  }
+}
