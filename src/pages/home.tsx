@@ -9,7 +9,7 @@ export async function Home() {
       <div class={sTitleContainer}>
         <h1 class={sTitle}>hi! i'm ts :D</h1>
         <p>
-          sometimes a developer, mostly brainrot. i'll be trying to write about things i find interesting. (atleast for me D:)
+          sometimes a developer, mostly just brainrot. i'll be trying to write about things i find interesting. (atleast for me D:)
         </p>
         {/* <br></br>
         <Socials /> */}
