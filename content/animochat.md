@@ -14,7 +14,7 @@ thus, AnimoChat was born.
 Motivations, ranked:
 
 1. "omegle died, and we needed drama"
-2. "the freedom wall said 'pls'" (we are week to peer pressure)
+2. "the freedom wall said 'pls'" (we are weak to peer pressure)
 3. we wanted to see how many people would accidentally send their wifi passwords
    to strangers.
 
@@ -110,6 +110,13 @@ someone were determined enough (with the right access), they could read what’s
 being said. but rest assured, your conversations are as private as we can make
 them. (if you're still worried, just don't send your wifi password to strangers.
 it's a good rule of thumb.) or sue me LOL
+
+for a bit of perspective, consider how messenger apps and other platforms used
+to operate. before end-to-end encryption became the norm, messages would pass
+through servers much like ours do. implementing end-to-end encryption is a
+significant undertaking, and for our application, it would be overkill. we've
+struck the right balance between performance and privacy, ensuring that your
+conversations are safe without complicating the system more than needed.
 
 in short, while your data must pass through our servers (that’s just how the
 magic of the internet works—and it’s free, too), we take every measure to ensure
