@@ -37,6 +37,8 @@ strangers with **_style_** (ey).
 **_P.S to the chatkool devs: no hard feelings. but maybe consider adding a reply
 feature? just a thought :p_**
 
+---
+
 # the art of matchmaking: a blind date analogy
 
 one of our biggest headaches? matchmaking. picture this: you walk into a room
@@ -114,6 +116,8 @@ magic of the internet works—and it’s free, too), we take every measure to en
 that your conversations remain just that: yours. it’s all part of creating a
 reliable, modern chatting experience where your privacy is respected as much as
 your freedom to connect.
+
+---
 
 # wrapping up
 
