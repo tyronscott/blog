@@ -23,7 +23,7 @@ Motivations, ranked:
 # the competition: a graveyard of outdated chat apps
 
 let's talk about the competition—or, as i like to call it, the "digital dinosaur
-exhibit" (nyahahahahaha). apps like _chatkool_, and others in the anonymous chat
+exhibit" (nyahahaha). apps like _chatkool_, and others in the anonymous chat
 space feel like they were built in 2013, frozen in time, and then dusted off for
 a 2025 release. they're functional, sure, but they're about as modern as a nokia
 3310 in the world of smartphones.
@@ -90,6 +90,30 @@ $$ LANGUAGE plpgsql;
 
 **_PS: if the matchmaking ever feels slow, blame the bouncer. they're probably
 on a coffee break._**
+
+---
+
+# data, privacy, and transparency
+
+let's get real for a moment—while AnimoChat is all about those spontaneous,
+anonymous conversations, the truth is that every message does travel through our
+servers. think of it like this: when you send a letter, it naturally passes
+through a post office. sure, someone could peek at the envelope if they really
+wanted to, but that's not what happens. we don't snoop on your chats. our
+systems are designed to handle your data with care and respect.
+
+the backend architecture we’ve built (powered by supabase) is crafted for
+efficiency and scalability, not intrusion. yes, technically, it means that if
+someone were determined enough (with the right access), they could read what’s
+being said. but rest assured, your conversations are as private as we can make
+them. (if you're still worried, just don't send your wifi password to strangers.
+it's a good rule of thumb.) or sue me LOL
+
+in short, while your data must pass through our servers (that’s just how the
+magic of the internet works—and it’s free, too), we take every measure to ensure
+that your conversations remain just that: yours. it’s all part of creating a
+reliable, modern chatting experience where your privacy is respected as much as
+your freedom to connect.
 
 # wrapping up
 
