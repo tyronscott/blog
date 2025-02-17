@@ -2,5 +2,10 @@
   {
     "id": "life",
     "title": "life"
+  },
+
+  {
+    "id": "stuff",
+    "title": "stuff"
   }
 ]
