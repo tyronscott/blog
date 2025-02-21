@@ -1,5 +1,5 @@
 ---
-title: verification and trust: why we're not just taking your word for it
+title: "verification and trust: why we're not just taking your word for it"
 date: "2025-02-21"
 categories:
   - "stuff"
