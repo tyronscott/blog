@@ -3,10 +3,10 @@ export function Contact() {
     <>
       <h1>Contact</h1>
       <p>
-        Reach me at my <a href="mailto:lucena.tyronscott@gmaul.com">email address</a>, or
+        Reach me at my <a href="mailto:lucena.tyronscott@gmail.com">email address</a>, or
         shoot me a DM on{" "}
-        <a href="https://twitter.com/messages/compose?recipient_id=3397524639">
-          Twitter
+        <a href="https://instagram.com/@tyronscott">
+          Instagram
         </a>
         .
       </p>
