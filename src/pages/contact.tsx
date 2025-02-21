@@ -5,7 +5,7 @@ export function Contact() {
       <p>
         Reach me at my <a href="mailto:lucena.tyronscott@gmail.com">email address</a>, or
         shoot me a DM on{" "}
-        <a href="https://instagram.com/@tyronscott">
+        <a href="https://instagram.com/tyronscott_">
           Instagram
         </a>
         .
