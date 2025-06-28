@@ -1,6 +1,6 @@
 ---
 title: "the great server shuffle: why i'm rebuilding animochat (why i broke everything, on purpose !!)"
-date: "2025-03-27"
+date: "2025-06-27"
 categories:
     - "stuff"
 ---
