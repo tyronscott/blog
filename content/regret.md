@@ -1,6 +1,6 @@
 ---
 title: "fuck animochat"
-date: "2025-06-05"
+date: "2025-08-05"
 categories:
     - "stuff"
 ---
